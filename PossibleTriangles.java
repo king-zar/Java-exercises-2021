@@ -1,4 +1,3 @@
-// Kinga Zarska - 8
 /*
  * Celem programu jest zastosowanie efektywnego algorytmu, ktory wyznaczy liczbe mozliwych trojek,
  * ktore beda mogly utworzyc trojkaty sposrod wartosci zawartych we wczytywanej tabeli. Algorytm pozwala

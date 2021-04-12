@@ -1,4 +1,3 @@
-// Kinga Zarska - 8
 /*
 * Celem programu jest rozwiazanie problemu poszukiwania podtablicy, ktorej suma elementow bedzie najwieksza.
 * Jezeli elementy kilku tablic sumuja sie do takiego samego najwiekszego wyniku, wybieramy te tablice,

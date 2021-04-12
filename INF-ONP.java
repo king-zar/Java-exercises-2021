@@ -1,4 +1,3 @@
-// Kinga Zarska - 8
 /*
  * program ma za zadanie przeprowadzac konwersje miedzy notacjami ONP i INF w obie strony, zakladamy na poczatku, ze
  * wyrazenia w obu notacjach moga byc niepoprawne, wiec przed przystapieniem do konwersji nalezy te poprawnosc
